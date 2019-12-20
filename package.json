@@ -1,0 +1,24 @@
+{
+  "name": "@BenjiCS/umd",
+  "version": "1.0.0",
+  "main": "umd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Benjamin Hansen <Benjamin.hansen44@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenjiCS/UMD-Fetch-Node-Module.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BenjiCS/UMD-Fetch-Node-Module/issues"
+  },
+  "homepage": "https://github.com/BenjiCS/UMD-Fetch-Node-Module#readme",
+  "description": ""
+}
