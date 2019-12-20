@@ -7,7 +7,7 @@ npm i @benjics/nodefetch
 ## How to use
 
 ```bash
-let nodeFetch = require("./umd");
+let nodeFetch = require("@benjics/nodefetch");
 
 nodeFetch.init({
   address: "https://YOUR.API/LINK",
