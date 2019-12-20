@@ -1,7 +1,7 @@
 # How to install
 
 ```bash
-npm i @BenjiCS/node-fetch
+npm i @benjics/nodefetch
 ```
 
 ## How to use
