@@ -10,7 +10,7 @@ npm i @BenjiCS/node-fetch
 let nodeFetch = require("./umd");
 
 nodeFetch.init({
-  address: "https://reqres.in/api/users?page=2",
+  address: "https://YOUR.API/LINK",
   key: "1234"
 });
 
