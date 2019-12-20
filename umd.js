@@ -7,7 +7,7 @@
     module.exports = factory(require("jquery"));
   } else {
     // Browser context
-    root.myFetch = factory(root.jquery);
+    root.nodeFetch = factory(root.jquery);
   }
 })(this, function($) {
   function init(options) {
