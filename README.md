@@ -22,7 +22,7 @@ Includes methods: Post, Get, Delete, Put
 
 ## How to use
 
-```Javascript
+```javascript
 if (typeof exports === "object") {
   var nodeFetch = require("@benjics/nodefetch");
 }
