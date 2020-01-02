@@ -33,7 +33,6 @@ nodeFetch.init({
 });
 
 nodeFetch.get("1").then(result => console.log(result));
-
 ```
 
 ## How to use in a browser
