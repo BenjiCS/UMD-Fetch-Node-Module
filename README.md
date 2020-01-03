@@ -1,5 +1,5 @@
 
-![](https://img.shields.io/npm/v/@benjics/nodefetch?style=flat-square)
+![](https://img.shields.io/npm/v/@benjics/nodefetch?label=NPM%20Verison&style=flat-square)
 ![](https://img.shields.io/bundlephobia/min/@benjics/nodefetch?label=Install%20Size&style=flat-square)
 ![](https://img.shields.io/npm/l/@benjics/nodefetch?style=flat-square)
 ![](https://img.shields.io/jsdelivr/npm/hy/@benjics/nodefetch?label=Downloads&style=flat-square)
@@ -13,9 +13,9 @@ Includes methods: Post, Get, Delete, Put
 
 ## How to install
 
-1.    `npm install`
+1.    `npm install @benjics/nodefetch`
 
-2.    Locate the YOURFLILE.js folder
+2.    Locate the YOUR-FILE.js folder
 
 3.    In the nodeFetch function shown below, Place the address you want to Fetch
 
@@ -34,7 +34,7 @@ nodeFetch.init({
 
 nodeFetch.get("1").then(result => console.log(result));
 ```
-
+<!-- 
 ## How to use in a browser
 
 Set this in your html file
@@ -42,4 +42,4 @@ Set this in your html file
 ```html
 <script src="https://unpkg.com/@benjics/nodefetch@0.1.0/umd.js" defer></script>
 ```
-And then add the javascript file you made with "how to use" section under the script showed above
+And then add the javascript file you made with "how to use" section under the script showed above -->
